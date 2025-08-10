@@ -1,9 +1,17 @@
 Copyright © 2025 Rashedul Alam & Study Mart. All rights reserved.
 
-This source code and associated files are made available for viewing purposes only.
-You may not copy, modify, merge, publish, distribute, sublicense, or sell copies of
-this software, in whole or in part, without the prior written permission of the copyright holder.
+This repository contains AI/LLM-related projects and source code made available 
+for educational and personal learning purposes only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+You may:
+- View, download, and run the code locally for personal learning.
+- Modify the code for your own private study.
+
+You may NOT:
+- Use, copy, or modify this code for any commercial purposes.
+- Distribute or publish this code, in whole or in part, without prior written permission.
+- Integrate any part of this code into commercial products or services.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, AND NONINFRINGEMENT.
