@@ -6,9 +6,7 @@ Each project explores real-world use cases for Large Language Models (LLMs) usin
 ---
 
 ## License Notice
-**Copyright © 2025 Rashedul Alam & Study Mart. All rights reserved.**  
-This repository is **non-commercial** — you may use it for **personal learning** only.  
-No commercial use, redistribution, or integration into commercial products is allowed.
+**Copyright © 2025 Rashedul Alam & Study Mart. All rights reserved.** This repository is **non-commercial** you may use it for **personal learning** only. No commercial use, redistribution, or integration into commercial products is allowed.
 
 ---
 
@@ -35,7 +33,7 @@ No commercial use, redistribution, or integration into commercial products is al
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **LangChain** – LLM orchestration framework  
 - **LLM Models** – Large Language Models (e.g., LLaMA, Mixtral, GPT)  
 - **FAISS / ChromaDB** – Vector databases for semantic search & RAG  
